@@ -6,6 +6,7 @@ Lic. en ciencias de datos \
 Universidad de Buenos Aires
 
 ## Teoricas 2022 -- *Son más completas, pero los ejemplos son en C++**
+| Nro | Enlace                                                                                                        | 
 | 1 | [Teórica 1](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Te%C3%B3ricas-2022/Te%C3%B3rica_1.pdf) |
 | 2 | [Teórica 2](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Te%C3%B3ricas-2022/Te%C3%B3rica_2.pdf) |
 | 3 | [Teórica 3](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Te%C3%B3ricas-2022/Te%C3%B3rica_3.pdf) |
