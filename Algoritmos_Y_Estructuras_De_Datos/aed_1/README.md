@@ -25,8 +25,18 @@ Universidad de Buenos Aires
 ### Haskell
 | Nro | Enunciado                                                                                                        | Resolucion                                                                                                        |
 | --- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 1   | [enunciado](https://github.com/yagopajarino/uba-AyEd1/blob/main/Pr%C3%A1cticas/Enunciados/Pr%C3%A1ctica%201.pdf) | [resolución](https://github.com/yagopajarino/uba-AyEd1/blob/main/Pr%C3%A1cticas/Soluciones/Pr%C3%A1ctica%201.pdf) |
+| 1   | [enunciado](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Practica/GuiasPDF/Gu%C3%ADa%201.pdf) | [resolución]() |
+| 2   | [enunciado](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Practica/GuiasPDF/Gu%C3%ADa%202.pdf) | [resolución]() |
+| 3   | [enunciado](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Practica/GuiasPDF/Gu%C3%ADa%203.pdf) | [resolución](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Practica/CodigoGuiasHaskell/Guia3/Guia3_AED1.hs) |
+| 4   | [enunciado](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Practica/GuiasPDF/Gu%C3%ADa%204.pdf) | [resolución](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Practica/CodigoGuiasHaskell/Guia4_AED1.hs) |
+| 5   | [enunciado](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Practica/GuiasPDF/Gu%C3%ADa%205.pdf) | [resolución](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/tree/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Practica/CodigoGuiasHaskell/Guia5) |
 ### Python
+| Nro | Enunciado                                                                                                        | Resolucion                                                                                                        |
+| --- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 6   | [enunciado](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Practica/GuiasPDF/Gu%C3%ADa%206.pdf) | [resolución](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Practica/CodigoGuiasPython/guia6.py) |
+| 7   | [enunciado](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Practica/GuiasPDF/Gu%C3%ADa%207.pdf) | [resolución](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Practica/CodigoGuiasPython/guia7.py) |
+| 8   | [enunciado](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Practica/GuiasPDF/Gu%C3%ADa%208.pdf) | [resolución](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Practica/CodigoGuiasPython/guia8.py) |
+| 9   | [enunciado](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Practica/GuiasPDF/Gu%C3%ADa%209.pdf) | [resolución](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Practica/CodigoGuiasPython/guia9.py) |
 
 ## Bibliografia
 
