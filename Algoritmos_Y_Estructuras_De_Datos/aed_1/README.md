@@ -29,3 +29,7 @@ Universidad de Buenos Aires
 ### Python
 
 ## Bibliografia
+
+- [*Reasoned Programming*, **K.Broda, S. Eisenbach, H. Khoshneivisan, S. Vickers. Prentice-Hall, 1994** ](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Bibliografia/Reasoned_Programming.pdf)
+- [*The science of programming*, **David Gries.Springer Cerlag, 1981** ](https://github.com/remusezequiel/Lic.-Ciencia-de-Datos/blob/main/Algoritmos_Y_Estructuras_De_Datos/aed_1/Bibliografia/The%2BScience%2BOf%2BProgramming%2BGries%2B038790641X.pdf)
+- [*Software Testing and Analysis: Process, Principles, and Techniques*, **M. Pezze, M. Young, Wiley, 2007**]
